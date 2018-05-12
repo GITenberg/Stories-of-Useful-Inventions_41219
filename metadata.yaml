@@ -1,0 +1,31 @@
+_repo: Stories-of-Useful-Inventions_41219
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41219-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Forman, S. E. (Samuel Eagle)
+    alias: Forman, Samuel Eagle
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '41043'
+    url: http://www.gutenberg.org/2009/agents/41043
+description: ''
+gutenberg_issued: '2012-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41219'
+  lccn: '11024365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+tableOfContents: The match -- The stove -- The lamp -- The forge -- The steam-engine
+  -- The plow -- The reaper -- The mill -- The loom -- The house -- The carriage --
+  The boat -- The clock -- The book -- The message.
+title: Stories of Useful Inventions
+url: http://www.gutenberg.org/ebooks/41219
