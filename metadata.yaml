@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41043'
     url: http://www.gutenberg.org/2009/agents/41043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41219#Stories-of-Useful-Inventions
 gutenberg_issued: '2012-10-29'
 gutenberg_type: Text
 identifiers:
